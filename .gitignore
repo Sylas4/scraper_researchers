@@ -3,3 +3,4 @@ notes.md
 data/Karolinska_researchers.xlsx
 data/subject_groups.json
 scraperc.py
+.DS_Store
